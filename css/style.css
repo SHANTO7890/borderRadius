@@ -1,0 +1,198 @@
+
+    
+    
+
+.header{
+    width: 100%;
+    height: 150px;
+    background-color: #14C2E7;
+    color: #F10100;
+    font-size: 150px;
+    text-align: center;
+    border: 2px solid #204051;
+    border-radius: 0px 40px;
+    text-shadow: 3px 3px black;
+    font-family: sans-serif
+    
+    
+    
+}
+span{
+    color: white;
+    text-shadow: 5px 6px black
+    
+    
+    
+}
+.first{
+    min-width: 160px;
+    max-width: 00px;
+    height: 130px;
+    border: 5px solid #F7A70A;
+    box-sizing: border-box;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-left: 150px;
+    background-color: #81007F;
+    
+}
+.second{
+    min-width: 160px;
+    max-width: 00px;
+    height: 130px;
+    border: 5px solid #F7A70A;
+    box-sizing: border-box;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-left: 150px;
+    background-color: #81007F;
+    border-radius: 50px;
+    
+}
+.third{
+    min-width: 160px;
+    max-width: 00px;
+    height: 130px;
+    border: 5px solid #F7A70A;
+    box-sizing: border-box;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-left: 150px;
+    background-color: #81007F;
+    border-radius: 50%
+    
+}
+.fourth{
+    min-width: 160px;
+    max-width: 00px;
+    height: 130px;
+    border: 5px solid #F7A70A;
+    box-sizing: border-box;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-left: 150px;
+    background-color: #81007F;
+    border-radius: 40px 0px;
+    
+}
+.fifth{
+    min-width: 160px;
+    max-width: 00px;
+    height: 130px;
+    border: 5px solid #F7A70A;
+    box-sizing: border-box;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-left: 150px;
+    background-color: #81007F;
+    border-radius: 100% 0px 0px 0px
+}
+.sixth{
+    min-width: 160px;
+    max-width: 00px;
+    height: 130px;
+    border: 5px solid #F7A70A;
+    box-sizing: border-box;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-left: 150px;
+    background-color: #81007F;
+    border-radius: 40px;
+    
+}
+.seventh{
+    min-width: 160px;
+    max-width: 00px;
+    height: 130px;
+    border: 5px solid #F7A70A;
+    box-sizing: border-box;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-left: 150px;
+    background-color: #81007F;
+    border-radius: 100% 0px 100% 0px
+}
+.eight{
+    min-width: 160px;
+    max-width: 00px;
+    height: 130px;
+    border: 5px solid #F7A70A;
+    box-sizing: border-box;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-left: 150px;
+    background-color: #81007F;
+    border-radius: 100% 100% 0px 0px
+}
+.nine{
+    min-width: 160px;
+    max-width: 00px;
+    height: 130px;
+    border: 5px solid #0000FF;
+    box-sizing: border-box;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-left: 150px;
+    background-color: #FFAA00;
+    border-radius: 25px;
+    box-shadow: 8px 8px 0px 3px #996600 inset
+}
+.ten{
+    min-width: 160px;
+    max-width: 00px;
+    height: 130px;
+    border: 5px solid #0000FF;
+    box-sizing: border-box;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 20px;
+    float: left;
+    margin-left: 150px;
+    background-color: #FFAA00;
+    border-radius: 25px;
+    box-shadow: 8px 8px 0px 3px #999999; 
+}
+.national-flag{
+    width: 500px;
+    height: 300px;
+    background-color: #808080;
+    clear: both;
+    margin-top: 500px;
+    overflow: hidden
+}
+.green{
+    width: 400px;
+    height: 200px;
+    background-color: green;
+    margin: 50px 50px;
+    overflow: hidden;
+    box-shadow: 4px 2px 0px 2px black;
+    
+    
+}
+.red{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    margin: 30px 130px;
+    border-radius: 50%;
+    box-shadow: 4px 1px 0px 2px black
+}
